@@ -3,6 +3,6 @@ package hhh;
 public class ggg {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub  
-		System.out.println("Wednesday  evening operation shayan-123"); 
+		System.out.println("Thursday morning operation shayan-123"); 
 }//
 }       
